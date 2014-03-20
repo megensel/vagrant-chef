@@ -67,3 +67,9 @@
 [submodule "chef/cookbooks/memcached"]
 	path = chef/cookbooks/memcached
 	url = git@github.com:opscode-cookbooks/memcached.git
+[submodule "chef/cookbooks/vim"]
+	path = chef/cookbooks/vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "chef/cookbooks/magerun-chef"]
+	path = chef/cookbooks/magerun-chef
+	url = https://github.com/rjocoleman/magerun-chef.git

@@ -5,5 +5,5 @@
         "app.dev",
         "local.dev"
     ],
-    "docroot": "/vagrant/public"
+    "docroot": "/vagrant"
 }
